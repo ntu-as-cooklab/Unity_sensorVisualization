@@ -1,4 +1,4 @@
-# unity_sensor-Visualization
+# Unity_sensor-Visualization
 Program for 6-Axes sensor's moving visualization
 
 
