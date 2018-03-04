@@ -1,5 +1,3 @@
-read me 補上如何開啟專案
 註解如何更改引入的資料
-從github載下來後要能打開專案
 再加個錄影
 gitignore 加上dll和 exe
