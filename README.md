@@ -1,7 +1,7 @@
 # Unity_sensor-Visualization
 Program for 6-Axes sensor's moving visualization
 
-
+https://gfycat.com/ElatedAcidicAfricanclawedfrog
 
 After building the unity project, create a "data" folder in the same location of the unity program. Put several txt files named "sensor_index.txt" and one file named "InitialPosition.txt" in data folder. Then the unity project will present the location of each sensor.
 
