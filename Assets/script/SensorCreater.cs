@@ -6,7 +6,7 @@ using System.IO;
 
 public class SensorCreater : MonoBehaviour {
 
-    private string Path = "txt\\";
+    private string Path = "data\\";
     public string FileName = "sensor_";
     public string InitialPos = "InitialPosition.txt";    //set the sensor's position on the tree
     public static int SensorNum;

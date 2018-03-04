@@ -103,7 +103,7 @@ public class BoxMove : MonoBehaviour {
         string data_raw;
         string[] data_lines;
         //string path = "txt\\" + this.gameObject.name + ".txt";
-        string path = "txt\\" + this.gameObject.name + ".txt";
+        string path = "data\\" + this.gameObject.name + ".txt";
         try
         {
             data_raw = File.ReadAllText(path);
