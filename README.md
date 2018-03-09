@@ -21,9 +21,9 @@ Check the "data" folder in the repository as an example.
     
 ## About this project ## 
 
-There are two scene in the unity project.  
-**"tree"** scene present all the sensors we have at the same time, and show the time tag in "sensor_index.txt".After pressing "Choose" button and choose one of the sensor, the project will change to "single_sensor" scene.   
-**"single_sensor"** scene presents one single sensor with an Cartesian coordinate(cm) , time tag, and the last string in "sensor_index.txt".Check "sensor_0.txt" in the repository as an example.
+There are two scene in the unity project.  
++ **"tree"** scene present all the sensors we have at the same time, and show the time tag in "sensor_index.txt".After pressing "Choose" button and choose one of the sensor, the project will change to "single_sensor" scene.      
++ **"single_sensor"** scene presents one single sensor with an Cartesian coordinate(cm) , time tag, and the last string in "sensor_index.txt".Check "sensor_0.txt" in the repository as an example.
   
   
 As for the script,   
@@ -33,5 +33,7 @@ As for the script,  
 ***Button*** contains all the button's script, and ***Label*** controls the time and acceleration label.
 ***CamaraMove*** enables user to move camera position by pressing and moving the mouse, and scroll the wheel for changing the distance. Adjust the "(min/max)distance" to change the initial and min/max camera position relatives to the origin of the Cartesian coordinate.
   
-  
+    
+        
+        
 If the user wants to change the "data" folder's name, then change the "path" variable in "SensorCreater"and "Box_Move", in line 9 and 106 respectively.
