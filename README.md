@@ -27,7 +27,8 @@ There are two scene in the unity project.  
   
   
     
-    
+      
+      
 As for the script,  
 ***Axis*** and ***Axis_2*** draw the Cartesian coordinate, ***Scale*** create the number tag on the coordinate.
 ***SensorCreater*** will create Box objects according to ***sensor_index.txt*** in datat folder.
@@ -36,6 +37,5 @@ As for the script,
 ***CamaraMove*** enables user to move camera position by pressing and moving the mouse, and scroll the wheel for changing the distance. Adjust the "(min/max)distance" to change the initial and min/max camera position relatives to the origin of the Cartesian coordinate.
   
     
-        
-        
+
 If the user wants to change the "data" folder's name, then change the "path" variable in "SensorCreater"and "Box_Move", in line 9 and 106 respectively.
