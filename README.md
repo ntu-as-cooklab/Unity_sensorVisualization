@@ -9,8 +9,7 @@ demo gif:
 
 After building the unity project, create a **"data" folder** in the same location of the unity program. Put several txt files named "sensor_index.txt" and one file named "InitialPosition.txt" in data folder. Then the unity project will present the location of each sensor.
 
-**"sensor_index.txt"** contains the position(x,y,z,axes in cm) and ypr angle (degree) of each sensor, sampled every 100ms, following with the time tag and a status string used for visualization label. The unity program will detect how many files in the data folder and create the correspondent sensor images in the tree scene.    
-"InitialPosition.txt" contains the initial position(x,y,z,axes in cm) of each sensor. For example, if you create 5 "sensor_index.txt", the there should be 5 lines in "InitialPosition.txt".
+**"sensor_index.txt"** contains the position(x,y,z,axes in cm) and ypr angle (degree) of each sensor, sampled every 100ms, following with the time tag and a status string used for visualization label. The unity program will detect how many files in the data folder and create the correspondent sensor images in the tree scene.    "InitialPosition.txt" contains the initial position(x,y,z,axes in cm) of each sensor. For example, if you create 5 "sensor_index.txt", the there should be 5 lines in "InitialPosition.txt".
 
 Check the "data" folder in the repository as an example.
 
