@@ -2,7 +2,7 @@
 Program for 6-Axes sensor's moving visualization
 
 demo gif:
-[]!(https://gfycat.com/ElatedAcidicAfricanclawedfrog)
+![123](https://gfycat.com/ElatedAcidicAfricanclawedfrog)
 
 
 
