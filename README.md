@@ -2,7 +2,7 @@
 Program for 6-Axes sensor's moving visualization
 
 demo gif:
-![123](Unity_sensorVisualization/tree.gif)
+![](Unity_sensorVisualization/tree.gif)
 
 
 
