@@ -2,7 +2,7 @@
 Program for 6-Axes sensor's moving visualization
 
 demo gif:
-![](https://github.com/ntu-as-cooklab/Unity_sensorVisualization/edit/master/README.md)
+![](https://github.com/ntu-as-cooklab/Unity_sensorVisualization/master/README.md)
 
 
 
