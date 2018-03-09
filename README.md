@@ -26,7 +26,7 @@ There are two scene in the unity project.  
 + **"single_sensor"** scene presents one single sensor with an Cartesian coordinate(cm) , time tag, and the last string in "sensor_index.txt".Check "sensor_0.txt" in the repository as an example.
   
   
-As for the script   
+As for the script, <br/>  
 ***Axis*** and ***Axis_2*** draw the Cartesian coordinate, ***Scale*** create the number tag on the coordinate.
 ***SensorCreater*** will create Box objects according to ***sensor_index.txt*** in datat folder.
 ***Box_Move*** load the sensors' position from txt files, and ***Box_line*** create the blue line drawing on the sensor passage.
