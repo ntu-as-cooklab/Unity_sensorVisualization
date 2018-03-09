@@ -35,7 +35,5 @@ As for the script,
 ***Box_Move*** load the sensors' position from txt files, and ***Box_line*** create the blue line drawing on the sensor passage.
 ***Button*** contains all the button's script, and ***Label*** controls the time and acceleration label.
 ***CamaraMove*** enables user to move camera position by pressing and moving the mouse, and scroll the wheel for changing the distance. Adjust the "(min/max)distance" to change the initial and min/max camera position relatives to the origin of the Cartesian coordinate.
-  
-    
 
 If the user wants to change the "data" folder's name, then change the "path" variable in "SensorCreater"and "Box_Move", in line 9 and 106 respectively.
