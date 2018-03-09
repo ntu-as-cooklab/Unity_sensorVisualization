@@ -6,7 +6,7 @@ demo gif:
 
 
 
-## How to prepare data files for this Project ##
+### How to prepare data files for this Project ###
 
 After building the unity project, create a **"data" folder** in the same location of the unity program. Put several txt files named "sensor_index.txt" and one file named "InitialPosition.txt" in data folder. Then the unity project will present the location of each sensor.
 
@@ -19,7 +19,7 @@ Check the "data" folder in the repository as an example.
 
     
     
-## About this project ## 
+### About this project ### 
 
 There are two scene in the unity project.  
 + **"tree"** scene present all the sensors we have at the same time, and show the time tag in "sensor_index.txt".After pressing "Choose" button and choose one of the sensor, the project will change to "single_sensor" scene.      
